@@ -1,0 +1,15 @@
+{
+  "name": "01_docker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "najmul-islam <najmulislam519@gmail.com> (https://najmulislam.vercel.app/)",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
